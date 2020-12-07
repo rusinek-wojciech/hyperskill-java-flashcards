@@ -1,4 +1,4 @@
-package org.ikinsure.hard.flashcards;
+package org.ikinsure.flashcards;
 
 import java.io.*;
 import java.util.*;
